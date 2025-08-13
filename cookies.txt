@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.noxhtrangcat.io.vn	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
-www.noxhtrangcat.io.vn	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	a2ecef10-9ebf-4e0d-707e-464764ddf486
-www.noxhtrangcat.io.vn	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2025-08-11 03:38:36.222739823 +0000 UTC m=+19510362.295784022"
-www.noxhtrangcat.io.vn	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW	2
-
